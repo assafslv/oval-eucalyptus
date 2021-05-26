@@ -480,7 +480,7 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-      - name: ''
+      - name: Choose color
         type: color
   section:
     type: object
