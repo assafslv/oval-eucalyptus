@@ -22,6 +22,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
+    title: 'My new book club is '
   - type: grid_section
     title: 'Read by marketers at:'
     align: center
