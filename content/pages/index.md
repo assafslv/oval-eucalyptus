@@ -91,7 +91,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
     background_image: 
-    background_image_repeat: no-repeat
+    background_image_repeat: repeat
     background_image_size: 
     background_image_opacity: 10
   - type: grid_section
