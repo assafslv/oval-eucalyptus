@@ -46,8 +46,7 @@ export default class FeaturesSection extends React.Component {
                         >
                             {videoEmbed ? htmlToReact(videoEmbed)
                                 : <img
-                                    src={withPrefix(https://images.unsplash.com/photo-1617062004315-a7c65e9015c8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3302&q=80
-                                    )}
+                                    src={withPrefix(image)}
                                     alt={imageAlt}
                                     className={classNames({
                                         'mx-auto': alignX === 'center',
