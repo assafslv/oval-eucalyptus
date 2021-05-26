@@ -483,7 +483,7 @@ models:
       - name: Choose color
         type: color
       - name: ''
-        type: string
+        type: image
   section:
     type: object
     label: Section
