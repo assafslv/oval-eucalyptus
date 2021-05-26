@@ -22,7 +22,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    title: 'A new playbook, live'
+    title: A new playbook is live for download!
   - type: grid_section
     title: 'Read by marketers at:'
     align: center
