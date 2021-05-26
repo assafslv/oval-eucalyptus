@@ -90,7 +90,7 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: primary
-    background_image: https://images.unsplash.com/photo-1617062004315-a7c65e9015c8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3302&q=80
+    background_image: 
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 10
