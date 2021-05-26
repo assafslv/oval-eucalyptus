@@ -475,14 +475,14 @@ models:
         label: Title
         description: The title of the page
         required: true
+      - name: Choose color
+        type: color
+        label: Choose Color
       - type: model
         name: seo
         models:
           - stackbit_page_meta
         label: Seo
-      - name: Choose color
-        type: color
-        label: Choose Color
       - name: Cover image
         type: image
         label: Cover Image
