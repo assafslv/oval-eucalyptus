@@ -457,6 +457,11 @@ models:
     layout: advanced
     hideContent: true
     fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the page
+        required: true
       - type: list
         name: sections
         label: Sections
@@ -470,11 +475,6 @@ models:
             - blog_feed_section
             - cta_section
             - form_section
-      - type: string
-        name: title
-        label: Title
-        description: The title of the page
-        required: true
       - name: Choose color
         type: color
         label: Choose Color
