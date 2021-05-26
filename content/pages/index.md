@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: The best seller boo of the year. 
+    title: The best seller book of the year. 
     subtitle: Your guide to B2B marketing in the real world.
     content: |-
       This book is your go-to guide for all marketing channels. Learn how to
