@@ -357,16 +357,16 @@ models:
     exclude:
       - blog/**/*
     fields:
-      - type: string
-        name: title
-        label: Title
-        description: The title of the page
-        required: true
       - type: model
         name: seo
         models:
           - stackbit_page_meta
         label: Seo
+      - type: string
+        name: title
+        label: Title
+        description: The title of the page
+        required: true
   post:
     type: page
     urlPath: /blog/{slug}
