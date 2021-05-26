@@ -478,14 +478,14 @@ models:
       - name: Cover image
         type: image
         label: Cover Image
-      - name: Choose color
-        type: color
-        label: Choose Color
       - type: model
         name: seo
         models:
           - stackbit_page_meta
         label: Seo
+      - name: Choose color
+        type: color
+        label: Choose Color
   section:
     type: object
     label: Section
