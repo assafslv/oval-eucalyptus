@@ -482,6 +482,8 @@ models:
         label: Seo
       - name: Choose color
         type: color
+      - name: ''
+        type: string
   section:
     type: object
     label: Section
